@@ -1,0 +1,11 @@
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora tela\Calculadora tela\bin\Debug\Calculadora tela.exe.config
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora tela\Calculadora tela\bin\Debug\Calculadora tela.exe
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora tela\Calculadora tela\bin\Debug\Calculadora tela.pdb
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora tela\Calculadora tela\obj\Debug\Calculadora tela.csproj.AssemblyReference.cache
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora tela\Calculadora tela\obj\Debug\Calculadora tela.csproj.SuggestedBindingRedirects.cache
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora tela\Calculadora tela\obj\Debug\Calculadora_tela.Form1.resources
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora tela\Calculadora tela\obj\Debug\Calculadora_tela.Properties.Resources.resources
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora tela\Calculadora tela\obj\Debug\Calculadora tela.csproj.GenerateResource.cache
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora tela\Calculadora tela\obj\Debug\Calculadora tela.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora tela\Calculadora tela\obj\Debug\Calculadora tela.exe
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora tela\Calculadora tela\obj\Debug\Calculadora tela.pdb
